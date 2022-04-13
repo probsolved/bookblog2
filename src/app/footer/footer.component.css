@@ -27,9 +27,14 @@ a:focus {
   background: #212529;
 }
 
+.logo {
+  border-radius: 10%;
+}
+
 footer {
   background: #212529;
 }
+
 
 
 /* ==========================================
